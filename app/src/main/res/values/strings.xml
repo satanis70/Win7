@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Win7</string>
+    <string name="title_activity_popular_fighters">PopularFightersActivity</string>
+    <string name="title_activity_termins">TerminsActivity</string>
+    <string name="title_activity_organizations">OrganizationsActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
